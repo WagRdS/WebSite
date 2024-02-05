@@ -1,0 +1,60 @@
+@charset "UTF-8";
+body{
+    background-color: rgba(219, 199, 161, 0.371);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    text-align: center;
+    color: rgb(4, 4, 78);
+}
+p{
+    text-indent: 20px;
+    text-align: justify;
+}
+li{
+    text-align: justify;
+    padding: 5px;
+}
+#grid_war{
+    width: 500px;
+    height: 500px;
+}
+#mobs_img{
+    width: 1200px;
+    height: 190px;
+}
+    
+#leaders_img{
+    width: 960px;
+    height: 212px;
+}
+.sets_heroes{
+    font-size: 1.3em;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+table{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+    border-collapse: collapse;
+    width: 100%;
+    height: 200px;
+    table-layout: fixed;
+}
+.mobs_obj{
+    height: 120px;
+    width: 150px;
+}
+.separador{
+    background-image: radial-gradient(circle, transparent, gray);
+    height: 50px;
+    width: auto;
+    border-radius: 10px;
+}
+
+.lideres_obj{
+    height: 200px;
+    width: 500px;
+}
